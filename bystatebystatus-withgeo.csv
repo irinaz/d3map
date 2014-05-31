@@ -1,0 +1,52 @@
+name,state,settled,ongoing,other,allcases,city,lat,lon,,,,,,,
+Alabama,Alabama,,,,,Montgomery,32.361538,-86.279118,,Capital Name:,,,,,Capital Longitude:
+Alaska,Alaska,,,,,Juneau,58.301935,-134.41974,,Capital Name:,,,,,Capital Longitude:
+Arizona,Arizona,1,,1,2,Phoenix,33.448457,-112.073844,,Capital Name:,,,,,Capital Longitude:
+Arkansas,Arkansas,,,1,1,Little Rock,34.736009,-92.331122,,Capital Name:,,,,,Capital Longitude:
+California,California,4,,1,5,Sacramento,36.555605,-121.468926,,Capital Name:,,,,,Capital Longitude:
+Colorado,Colorado,,,,,Denver,39.7391667,-104.984167,,Capital Name:,,,,,Capital Longitude:
+Connecticut,Connecticut,,,,,Hartford,41.767,-72.677,,Capital Name:,,,,,Capital Longitude:
+Delaware,Delaware,,,,,Dover,39.161921,-75.526755,,Capital Name:,,,,,Capital Longitude:
+Florida,Florida,2,1,3,6,Tallahassee,30.4518,-84.27277,,Capital Name:,,,,,Capital Longitude:
+Georgia,Georgia,,,1,1,Atlanta,33.76,-84.39,,Capital Name:,,,,,Capital Longitude:
+Hawaii,Hawaii,,,,,Honolulu,21.30895,-157.826182,,Capital Name:,,,,,Capital Longitude:
+Idaho,Idaho,1,,,,Boise,43.613739,-116.237651,,Capital Name:,,,,,Capital Longitude:
+Illinois,Illinois,1,,,1,Springfield,39.78325,-89.650373,,Capital Name:,,,,,Capital Longitude:
+Indiana,Indiana,,,,1,Indianapolis,39.790942,-86.147685,,Capital Name:,,,,,Capital Longitude:
+Iowa,Iowa,,,,,Des Moines,41.590939,-93.620866,,Capital Name:,,,,,Capital Longitude:
+Kansas,Kansas,,,,,Topeka,39.04,-95.69,,Capital Name:,,,,,Capital Longitude:
+Kentucky,Kentucky,,,2,2,Frankfort,38.197274,-84.86311,,Capital Name:,,,,,Capital Longitude:
+Louisiana,Louisiana,2,1,3,6,Baton Rouge,30.45809,-91.140229,,Capital Name:,,,,,Capital Longitude:
+Maine,Maine,,,,,Augusta,44.323535,-69.765261,,Capital Name:,,,,,Capital Longitude:
+Maryland,Maryland,,,1,1,Annapolis,38.972945,-76.501157,,Capital Name:,,,,,Capital Longitude:
+Massachusetts,Massachusetts,,,,,Boston,42.2352,-71.0275,,Capital Name:,,,,,Capital Longitude:
+Michigan,Michigan,,,,,Lansing,42.7335,-84.5467,,Capital Name:,,,,,Capital Longitude:
+Minnesota,Minnesota,,,,,Saint Paul,44.95,-93.094,,Capital Name:,,,,,Capital Longitude:
+Mississippi,Mississippi,,,,,Jackson,32.32,-90.207,,Capital Name:,,,,,Capital Longitude:
+Missouri,Missouri,,,2,2,Jefferson City,38.572954,-92.189283,,Capital Name:,,,,,Capital Longitude:
+Montana,Montana,,,,,Helana,46.595805,-112.027031,,Capital Name:,,,,,Capital Longitude:
+Nebraska,Nebraska,,,,,Lincoln,40.809868,-96.675345,,Capital Name:,,,,,Capital Longitude:
+Nevada,Nevada,,,,,Carson City,39.160949,-119.753877,,Capital Name:,,,,,Capital Longitude:
+New Hampshire,New Hampshire,,,,,Concord,43.220093,-71.549127,,Capital Name:,,,,,Capital Longitude:
+New Jersey,New Jersey,,,2,2,Trenton,40.221741,-74.756138,,Capital Name:,,,,,Capital Longitude:
+New Mexico,New Mexico,,,,,Santa Fe,35.667231,-105.964575,,Capital Name:,,,,,Capital Longitude:
+New York,New York,1,2,,4,Albany,42.659829,-73.781339,,Capital Name:,,,,,Capital Longitude:
+North Carolina,North Carolina,,,1,1,Raleigh,35.771,-78.638,,Capital Name:,,,,,Capital Longitude:
+North Dakota,North Dakota,,,,,Bismarck,48.813343,-100.779004,,Capital Name:,,,,,Capital Longitude:
+Ohio,Ohio,1,,1,2,Columbus,39.962245,-83.000647,,Capital Name:,,,,,Capital Longitude:
+Oklahoma,Oklahoma,,,,,Oklahoma City,35.482309,-97.534994,,Capital Name:,,,,,Capital Longitude:
+Oregon,Oregon,,,,,Salem,44.931109,-123.029159,,Capital Name:,,,,,Capital Longitude:
+Pennsylvania,Pennsylvania,1,,2,2,Harrisburg,40.269789,-76.875613,,Capital Name:,,,,,Capital Longitude:
+Rhode Island,Rhode Island,,,, ,Providence,41.82355,-71.422132,,Capital Name:,,,,,Capital Longitude:
+South Carolina,South Carolina,,,, ,Columbia,34,-81.035,,Capital Name:,,,,,Capital Longitude:
+South Dakota,South Dakota,,,,,Pierre,44.367966,-100.336378,,Capital Name:,,,,,Capital Longitude:
+Tennessee,Tennessee,5,3,1,9,Nashville,36.165,-86.784,,Capital Name:,,,,,Capital Longitude:
+Texas,Texas,1,,2,3,Austin,30.266667,-97.75,,Capital Name:,,,,,Capital Longitude:
+Utah,Utah,,,,,Salt Lake City,40.7547,-111.892622,,Capital Name:,,,,,Capital Longitude:
+Vermont,Vermont,,,,,Montpelier,44.26639,-72.57194,,Capital Name:,,,,,Capital Longitude:
+Virginia,Virginia,,,,,Richmond,37.54,-77.46,,Capital Name:,,,,,Capital Longitude:
+Washington,Washington,,,,,Olympia,47.042418,-122.893077,,Capital Name:,,,,,Capital Longitude:
+West Virginia,West Virginia,,,,,Charleston,38.349497,-81.633294,,Capital Name:,,,,,Capital Longitude:
+Wisconsin,Wisconsin,,,,,Madison,43.074722,-89.384444,,Capital Name:,,,,,Capital Longitude:
+Wyoming,Wyoming,,,,,Cheyenne,41.145548,-104.802042,,Capital Name:,,,,,Capital Longitude:
+District of Columbia,District of Columbia,1,,,1,washington,38.54,-76.46,,Capital Name:,,,,,
